@@ -12,10 +12,12 @@
 
 <!--About Me-->
 ## 👨🏻‍💻 About me
+<picture> 
+    <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250px" style="margin-left: 20px; margin-bottom: 20px;">
+</picture>
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width = 300px></picture>
 - :wave: Hi, I'm Nguyen Cong Hoai Nam
-- :school: I'm currently studying  `Data Science` at [Ho Chi Minh City University of Science](https://hcmus.edu.vn/) 
+- :school: I'm currently studying `Data Science` at [Ho Chi Minh City University of Science](https://hcmus.edu.vn/)
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
 <!-- - :nerd_face: Always believe `"You are what you loved"` -->
 
