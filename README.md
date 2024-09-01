@@ -16,14 +16,23 @@
 <!--About Me-->
 ## 👨🏻‍💻 About me
 <picture> 
-    <img align="right" src="assets/Night-Coding.gif" width="250px" style="margin-left: 20px; margin-bottom: 20px;">
+    <img align="right" src="assets/Night-Coding.gif" width="300px" height = "130px"/>
 </picture>
 
 - :wave: Hi, I'm Nguyen Cong Hoai Nam
 - :school: I'm currently studying `Data Science` at [Ho Chi Minh City University of Science](https://hcmus.edu.vn/)
-<!-- - :nerd_face: Always believe `"You are what you loved"` -->
 
-<br>
+<br clear="both">
+
+
+## 🤝🏻 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ho%C3%A0i-nam-nguy%E1%BB%85n-c%C3%B4ng-55142129b/"><img src="https://img.shields.io/badge/-Linkedin?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nchn.471@gmail.com"><img src="https://img.shields.io/badge/-nchn.471@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/nchn_/"><img src="https://img.shields.io/badge/-@nchn_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/nchn471"><img src="https://img.shields.io/badge/-@nchn471-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
 
 ## 🛠️ My Skills
 
@@ -58,16 +67,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-## 🤝🏻 Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ho%C3%A0i-nam-nguy%E1%BB%85n-c%C3%B4ng-55142129b/"><img src="https://img.shields.io/badge/-Linkedin?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nchn.471@gmail.com"><img src="https://img.shields.io/badge/-nchn.471@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/nchn_/"><img src="https://img.shields.io/badge/-@nchn_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/nchn471"><img src="https://img.shields.io/badge/-@nchn471-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
-
 
 <!--horizontal divider(gradiant)-->
 <img src="assets/line.gif">
