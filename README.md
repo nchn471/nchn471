@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="assets/line.gif">
 
 <!--h1 without bottom border-->
 
@@ -70,6 +70,6 @@
 
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="assets/line.gif">
 <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
 
