@@ -51,7 +51,7 @@
 
 <br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> GitHub Analytics
+## 📈 GitHub Analytics
 <p align="center">
 <a href="https://github.com/nchn471">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nchn471&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
