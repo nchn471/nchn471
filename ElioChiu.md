@@ -26,17 +26,26 @@
 ## 🛠️ My Skills
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Sklearn-05122A?style=flat&logo=Scikitlearn)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudioide)&nbsp;\
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=overleaf)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; 
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=overleaf)&nbsp;\
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp; 
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp; 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp; 
+![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=Matlab)&nbsp; 
+<!-- ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=Microsoft%20Office)&nbsp; 
+![Google Service](https://img.shields.io/badge/-Google%20Service-05122A?style=flat&logo=Google)&nbsp; -->
 
 <br>
 
