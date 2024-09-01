@@ -16,7 +16,7 @@
 <!--About Me-->
 ## 👨🏻‍💻 About me
 <picture> 
-    <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250px" style="margin-left: 20px; margin-bottom: 20px;">
+    <img align="right" src="assets/Night-Coding.gif" width="250px" style="margin-left: 20px; margin-bottom: 20px;">
 </picture>
 
 - :wave: Hi, I'm Nguyen Cong Hoai Nam
