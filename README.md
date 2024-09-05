@@ -20,7 +20,7 @@
 </picture>
 
 - :wave: Hi, I'm Nguyen Cong Hoai Nam
-- :school: I'm currently studying `Data Science` at [Ho Chi Minh City University of Science](https://hcmus.edu.vn/)
+- :school: I'm currently studying `Data Science` at [HCMC University of Science](https://hcmus.edu.vn/)
 
 <br clear="both">
 
