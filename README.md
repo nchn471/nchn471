@@ -24,6 +24,14 @@
 
 <br clear="both">
 
+## 🤝🏻 Connect with Me
+
+<p align="left">
+<a href="https://twitter.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalbhatt09" height="30" width="40"></a>
+<a href="https://linkedin.com/in/ujjwal-bhatt-b256271a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40"></a>
+<a href="https://instagram.com/_ujjwalbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwalbhatt" height="30" width="40"></a>
+<a href="https://www.leetcode.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwalbhatt09" height="30" width="40"></a>
+  
 ## 🛠️ My Skills
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -58,14 +66,8 @@
 </a>
 </p>
 
-## 🤝🏻 Connect with Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ho%C3%A0i-nam-nguy%E1%BB%85n-c%C3%B4ng-55142129b/"><img src="https://img.shields.io/badge/-Linkedin?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nchn.471@gmail.com"><img src="https://img.shields.io/badge/-nchn.471@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/nchn_/"><img src="https://img.shields.io/badge/-@nchn_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/nchn471"><img src="https://img.shields.io/badge/-@nchn471-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+
 <!--horizontal divider(gradiant)-->
 <img src="assets/line.gif">
 <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
