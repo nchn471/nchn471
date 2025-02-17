@@ -3,7 +3,7 @@
 </p>
 
 - [x] 👋 Hi there! I'm **Nguyen Cong Hoai Nam**
-- [x] 🎓 I'm currently studying <strong>Data Science</strong> at **University of Science**
+- [x] 🎓 I'm currently studying <strong>Data Science</strong> at **VNUHCM - University of Science**
 - [x] 🚀 On my way to **Data Engineering**
 - [x] 📄 My resume:  [click here](https://drive.google.com/file/d/1rM7iMvRxWB018cSueHHTGxnGNr7gPV2X/view?usp=sharing)
 
