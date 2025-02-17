@@ -5,7 +5,7 @@
 - [x] 👋 Hi there! I'm **Nguyen Cong Hoai Nam**
 - [x] 🎓 I'm currently studying <strong>Data Science</strong> at **University of Science**
 - [x] 🚀 On my way to **Data Engineering**
-- [x] 📄 My resume:  <a href="https://drive.google.com/file/d/1rM7iMvRxWB018cSueHHTGxnGNr7gPV2X/view?usp=sharing" target="blank"> click here </a> 
+- [x] 📄 My resume:  <a href="https://drive.google.com/file/d/1rM7iMvRxWB018cSueHHTGxnGNr7gPV2X/view?usp=sharing" target="_blank"> click here </a> 
 
 
 
