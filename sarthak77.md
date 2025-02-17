@@ -5,7 +5,8 @@
 - [x] 👋 Hi there! I'm **Nguyen Cong Hoai Nam**
 - [x] 🎓 I'm currently studying <strong>Data Science</strong> at **University of Science**
 - [x] 🚀 On my way to **Data Engineering**
-- [x] 📄 Check my resume: <a href="https://www.linkedin.com/in/sarthak77"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+- [x] 📄 My resume:  [Click here](link)
+
 
 
 <p align="left"> 
@@ -14,8 +15,8 @@
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sarthak77"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="mailto:sarthak02singhal@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/nchn"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="mailto:nchn.work@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
 
