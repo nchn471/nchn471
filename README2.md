@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="assets/old_men_typing.gif" width="40%" align="right">
+  <img src="assets/old_man_typing.gif" width="40%" align="right">
 </p>
 
 - [x] 👋 Hi there! I'm **Nguyen Cong Hoai Nam**
