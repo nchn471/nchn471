@@ -1,7 +1,5 @@
-<h2> 👋 Hi there! </h2>
+## 👋 Hi there! I'm [**Nguyen Cong Hoai Nam**](https://nchn.netlify.app/about)
 <img src="assets/old_man_typing.gif" width="40%" align="right">
-
-📌 I'm **Nguyen Cong Hoai Nam**
 
 🎓 I'm currently studying <strong>Data Science</strong> at **VNUHCM - University of Science**
 
