@@ -7,7 +7,7 @@
 
 #### 📄 My resume:  [click here](https://drive.google.com/file/d/1rM7iMvRxWB018cSueHHTGxnGNr7gPV2X/view?usp=sharing)
 
-#### 📄 Explore my blog / portfolio:  [click here](https://nchn.netlify.app)
+#### 📄 Explore my blog / portfolio:  [nchn.netlify.app](https://nchn.netlify.app)
 
 
 #### 📩 Connect with me:
