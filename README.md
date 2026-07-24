@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm [**Nguyen Cong Hoai Nam**](https://nchn.netlify.app/about)
 <img src="assets/old_man_typing.gif" width="40%" align="right">
 
-#### 🎓 Graduated with a Bachelor's degree in **Data Science** from **VNUHCM – University of Science**
+#### 🎓Bachelor's in **Data Science**, **VNUHCM – University of Science**
 
 #### 🚀 Worked as an **AI Engineer** at **[SHIFT ASIA](https://shiftasia.com/)**
 
